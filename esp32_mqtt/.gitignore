@@ -1,0 +1,8 @@
+# Build files
+build/
+sdkconfig
+sdkconfig.old
+
+# Config file with credentials (don't commit!)
+main/config.h
+
